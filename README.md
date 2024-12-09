@@ -21,7 +21,7 @@ Before you begin, ensure that you meet the following requirements:
 1. Clone the repository (In terminal):
 
    ``` 
-   git clone https://github.com/AbhashChamlingRai/traffic-congestion-detector.git
+   git clone https://github.com/Noel2105/Face_recognition_Attendance_System.git
    ``` 
 
 2. Create a virtual environment:
